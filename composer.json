@@ -1,7 +1,7 @@
 {
     "name": "ethanclevenger91/sterner-stuff-replace-me",
     "type": "wordpress-plugin",
-    "description": "ReplaceMe - Proprietary core plugin for Sterner Stuff Design.",
+    "description": "ReplaceMe - Proprietary core plugin for Sterner Stuff.",
     "homepage": "https://sternerstuff.dev",
     "license": "MIT",
     "require": {
